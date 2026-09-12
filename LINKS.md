@@ -62,7 +62,7 @@ Informational only, not financial advice.
 
 - https://youtu.be/ZCL6FKQZyoM
 - https://www.usgs.gov/programs/mineral-resources-program/science
-- https://www.mndm.gov.on.ca/en/news/mines-and-minerals
+- https://www.mndm.gov.on.ca/en/news/mines-and-minerals — **checked 2026-09-12: returns 503, page appears down or moved** (try searching Ontario's current mines-and-minerals ministry site directly if this doesn't recover)
 - https://www.amazon.ca/Gold-Creeks-Ghostowns-British-Columbia/dp/088839988X
 
 ## Nitric acid, magnets, and ping test (authentication)
